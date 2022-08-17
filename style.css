@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+img{
+    height: 500px;
+    border-radius: 10px 0 0 10px;
+    float: left;
+    padding-right: 30px;
+}
+.text{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 0 10px 10px 0;
+    height: 480px;
+    padding: 10px;
+    width: 670px;
+    column-gap: 20px;
+    text-align: left;
+    
+
+}
+button{
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 10px;
+    text-align: center;
+    height: 50px;
+    padding: 10px 50px;
+    border: none;
+    color: white;
+}
+.number{
+    color: hsl(158, 36%, 37%);
+}
+.container{
+    margin: 50px 20%;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'Fraunces', serif;
+}
+span{
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+    text-decoration: line-through;
+    font-size: 13px;
+}
